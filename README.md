@@ -1,6 +1,8 @@
 Rails3 Devise Rspec Cucumber
 =========
 
+The Rails3 Devise Rspec Cucumber tutorial from the website "http://railsapps.github.io/tutorial-rails-devise-rspec-cucumber.html" by Daniel Kehoe, creator of the RailApps project. Tutorial performed by Adrian Sharma, sharma.adrian (at) gmail.com, twitter: @sharma_time
+
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
 
